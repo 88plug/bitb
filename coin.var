@@ -1,0 +1,4 @@
+name="beancash"
+symbol="bitb"
+daemon="Beancashd"
+cli="Beancashd"
